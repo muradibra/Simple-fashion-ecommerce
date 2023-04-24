@@ -480,6 +480,10 @@ body {
     padding: 15px 10px;
 }
 
+.sale-shop-now {
+    padding-bottom: 25px;
+}
+
 .sale-shop-now a {
     position: relative;
     color: #111;

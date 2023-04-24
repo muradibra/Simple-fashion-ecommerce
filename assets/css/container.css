@@ -303,6 +303,10 @@
         width: 100%;
     }
 
+    .sale-shop-now {
+        padding-bottom: 0 !important;
+    }
+
     .insta-content {
         grid-template-columns: repeat(6,1fr);
     }
